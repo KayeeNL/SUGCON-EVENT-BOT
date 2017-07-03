@@ -1,0 +1,10 @@
+html, body, #heroimage{
+  width:100%;
+  height:100%;
+}
+
+#heroimage {
+    background:url('../images/bots.jpg') center center;
+    -ms-background-size:cover;
+    background-size:cover;
+}

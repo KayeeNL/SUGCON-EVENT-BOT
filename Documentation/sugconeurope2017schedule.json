@@ -1,0 +1,1182 @@
+{
+  "speakers": [
+    {
+      "id": "1",
+      "name": "Lars Fløe Nielsen",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/02/larsfloenielsen.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Jeppe Grue",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/jeppegrue.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Pieter Brinkman",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/02/pieterbrinkman-1.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Bas Lijten",
+      "company": "Achmea",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/02/baslijten.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Nick Hills",
+      "company": "True Clarity",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/03/nickhills.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Anders Laub",
+      "company": "Laub + Co",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/02/anderslaub.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Rob Habraken",
+      "company": "Colours",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/robhabraken-1.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Mark Stiles",
+      "company": "Velir",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/markstiles-1.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Robbert Hock",
+      "company": "Kayee",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/robberthock.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Alex van Wolferen",
+      "company": "Suneco",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/alexvanwolferen.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Søren Engel",
+      "company": "Pentia A/S",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/sorenengel.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Jason Wilkerson",
+      "company": "RBA",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/03/jasonwilkerson.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Mike Edwards",
+      "company": "Glass",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/02/mikeedwards.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Nathanael Mann",
+      "company": "Cardinal IT Solutions",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/03/nathanaelmann.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Amanda Shiga",
+      "company": "Nonlinear Creations",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/amandashiga.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Adam Najmanowicz",
+      "company": "Cognifide",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/02/adamnajmanowicz.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Thomas Stern",
+      "company": "Pentia A/S",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/04/thomasstern.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Richard Seal",
+      "company": "",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/richardseal.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Phil Wicklund",
+      "company": "Viridian Solutions",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/philwicklund.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Brian Beckham",
+      "company": "BrainJocks",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/04/brianbeckham.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Emil Klein",
+      "company": "Pentia A/S",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/emilklein.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Mark Cassidy",
+      "company": "Cognizant",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/markcassidy.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Mark van Aalst",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/markvanaalst.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Robin Hermanussen",
+      "company": "Lukkien",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/04/robinhermanussen.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Mike Shaw",
+      "company": "Hedgehog Development",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/mikeshaw.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Jacqueline Baxter",
+      "company": "Hedgehog Development",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/jacquelinebaxter-1.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Willem Haring",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/willemharing.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Stefano Tempesta",
+      "company": "EF (Education First)",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/stefanotempesta.jpg"
+    },
+    {
+      "id": "29",
+      "name": "Todd Mitchell",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2016/02/toddmitchell.jpg"
+    },
+    {
+      "id": "30",
+      "name": "David Walker",
+      "company": "Layer One Media",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/davidwalker.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Stephen Pope",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/stephenpope.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Chris Nash",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/chrisnash.jpg"
+    },
+    {
+      "id": "33",
+      "name": "Dmytro Shevchenko",
+      "company": "Hedgehog Developmen",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/dmytroshevchenko.jpg"
+    },
+    {
+      "id": "34",
+      "name": "Alex Shyba",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/alexshyba.jpg"
+    },
+    {
+      "id": "35",
+      "name": "Eduardo Moraes",
+      "company": "Avanade",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/eduardomoraes.jpg"
+    },
+    {
+      "id": "36",
+      "name": "Christian James Hansen",
+      "company": "Pentia A/S",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/christianhansen.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Adam Weber",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/adamweber.jpg"
+    },
+    {
+      "id": "38",
+      "name": "Gert Maas",
+      "company": "Macaw",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/gertmaas.jpg"
+    },
+    {
+      "id": "39",
+      "name": "Erwin Werkman",
+      "company": "Aviva Solutions",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/03/erwinwerkman.jpg"
+    },
+    {
+      "id": "40",
+      "name": "Søren Spelling Lund",
+      "company": "uCommerce",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/04/sorenspellinglund.jpg"
+    },
+    {
+      "id": "41",
+      "name": "Thomas Møller Jensen",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/04/thomasmollerjensen.jpg"
+    },
+    {
+      "id": "42",
+      "name": "Erwin Rijss",
+      "company": "Macaw",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/04/erwinrijss.jpg"
+    },
+    {
+      "id": "43",
+      "name": "Christof Claessens",
+      "company": "Microsoft",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/04/christofclaessens.jpg"
+    },
+    {
+      "id": "44",
+      "name": "Tamas Varga",
+      "company": "Sitecore",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/01/tamasvarga.jpg"
+    },
+    {
+      "id": "45",
+      "name": "Laurent Simoneau",
+      "company": "Coveo",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/04/laurentsimoneau.jpg"
+    },
+    {
+      "id": "46",
+      "name": "Charles Turano",
+      "company": "Hedgehog",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/04/charlesturano.jpg"
+    },
+    {
+      "id": "47",
+      "name": "Morten Lyhr",
+      "company": "uCommerce",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/05/mortenlyhr.jpg"
+    },
+    {
+      "id": "48",
+      "name": "Farrukh Iftikhar",
+      "company": "Telligent",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/05/farrukhIftikhar.jpg"
+    },
+    {
+      "id": "49",
+      "name": "Jacob Coens",
+      "company": "theFactor.e",
+      "photo": "https://www.sugcon.eu/wp-content/uploads/2017/05/jacobcoens.jpg"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "1",
+      "from": "2017-05-18T13:05:00.000Z",
+      "until": "2017-05-18T13:35:00.000Z",
+      "room": "0",
+      "title": "Keynote SUGCON Europe 2017",
+      "summary": "Lars, Co-Founder & Chief Development Officer – @Sitecore, will do the opening keynote of the Sitecore User Group Conference Europe 2017. Expect some new insights into the future of Sitecore.",
+      "tags": "sitecore, keynote, opening",
+      "speakers": [
+        {
+          "id": "1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "from": "2017-05-19T16:30:00.000Z",
+      "until": "2017-05-19T17:15:00.000Z",
+      "room": "0",
+      "title": "The Sitecore philosophy",
+      "summary": "Jeppe Grue, Senior Vice President, Product Strategy – @Sitecore, will do the closing presentation of the Sitecore User Group Conference Europe 2017. He will show the vision and roadmap of Sitecore for the future…",
+      "tags": "sitecore, closing, keynote, roadmap, jeppe",
+      "speakers": [
+        {
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "from": "2017-05-18T13:35:00.000Z",
+      "until": "2017-05-18T14:20:00.000Z",
+      "room": "0",
+      "title": "A futuristic showcase of the omni-channel capabilities of Sitecore XP",
+      "summary": "Be amazed by the opening session at SUGCON Europe 2017…since it has to be a surprise we can’t tell anything about this session …",
+      "tags": "sitecore, ai, bot, luis, omnichannel, cognitive services, cognitive, face recognizion, azure, machine learing",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/baslijten-robhabraken-458x229.jpg",
+      "speakers": [
+        {
+          "id": "4"
+        },
+        {
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "from": "2017-05-18T14:40:00.000Z",
+      "until": "2017-05-18T15:25:00.000Z",
+      "room": "3",
+      "title": "Leveraging the Microsoft Bot Framework to build your own Sitecore enabled bots",
+      "summary": "In this cool session Sitecore MVP Robbert Hock and Senior Sitecore Architect Alex van Wolferen will show you how you can leverage the Microsoft Bot Framework to build you own Sitecore enabled bots",
+      "tags": "sitecore, ai, bot, luis, cognitive services, cognitive, bot framework, azure, machine learning",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/robberthock-alexvanwolferen-458x229.jpg",
+      "speakers": [
+        {
+          "id": "9"
+        },
+        {
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "from": "2017-05-19T12:40:00.000Z",
+      "until": "2017-05-19T13:25:00.000Z",
+      "room": "0",
+      "title": "Extending SXA with custom components",
+      "summary": "How to extend SXA by building my own components. Simple component, Rendering Variant enabled component, maybe a composite. How to make your component participate in Site scaffolding.",
+      "tags": "sitecore, sxa, experience accelerator, accelerator",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/adamnajmanowicz-markvanaalst-458x229.jpg",
+      "speakers": [
+        {
+          "id": "16"
+        },
+        {
+          "id": "23"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "from": "2017-05-19T12:40:00.000Z",
+      "until": "2017-05-19T13:25:00.000Z",
+      "room": "1",
+      "title": "Tooling for Helix - with Docker focus",
+      "summary": "Helix tooling has been limited, and there has been a lot of discussion within the community about how to do it right. Habitat isn’t production ready, so what do we do? At Pentia we have worked with Modular architecture (aka Helix) for a long time",
+      "tags": "sitecore, helix, gulp, yeoman, docker, npm, accelerator, unicorn",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/thomasstern-emilklein-458x229.jpg",
+      "speakers": [
+        {
+          "id": "17"
+        },
+        {
+          "id": "21"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "from": "2017-05-19T14:30:00.000Z",
+      "until": "2017-05-19T15:15:00.000Z",
+      "room": "3",
+      "title": "Like, Tweet, Personalize: The Untapped Potential of Sitecore & Social Media",
+      "summary": "From analytics and A/B testing to engagement plans, social media offers a world of personalization possibilities. Learn how to maximize the value of modular architecture and continually optimize native content to keep your audience engaged and coming back for more.",
+      "tags": "sitecore, marketing, analytics, a/b, engagement plans, social media, personalization, optimize, engagement, customer experience, digital marketing",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/mikeshaw-jaquelinebaxter-458x229.jpg",
+      "speakers": [
+        {
+          "id": "25"
+        },
+        {
+          "id": "26"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "from": "2017-05-19T13:35:00.000Z",
+      "until": "2017-05-19T14:20:00.000Z",
+      "room": "0",
+      "title": "How to start selling product with Sitecore",
+      "summary": "In this session you will learn how to start selling products with Sitecore and Sitecore commerce. During the session we will setup a catalog, integrate the catalog with Sitecore. Explore the the webshop",
+      "tags": "sitecore, commerce, sitecore commerce, commere server, catalog, ecommerce, e-commerce",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/willemharing-erwinwerkman-458x229.jpg",
+      "speakers": [
+        {
+          "id": "27"
+        },
+        {
+          "id": "39"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "from": "2017-05-19T15:45:00.000Z",
+      "until": "2017-05-19T16:30:00.000Z",
+      "room": "0",
+      "title": "Sitecore and JavaScript - finally in love!",
+      "summary": "Ever wondered if you can build full fledged apps in JavaScript and leverage the best out of the Sitecore platform? Well, the latest skunkworks from the Team X secret facility near Area 51 in the Nevada Desert will give you exactly that!",
+      "tags": "sitecore, javascript, react, team x, spa, single page applications, front-end, front end",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/alexshyba-adamweber-458x229.jpg",
+      "speakers": [
+        {
+          "id": "34"
+        },
+        {
+          "id": "37"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "from": "2017-05-19T13:35:00.000Z",
+      "until": "2017-05-19T14:20:00.000Z",
+      "room": "3",
+      "title": "How an integrated approach adds value to your digital marketing platform",
+      "summary": "Nowadays data integration and the resulting insights are essential to understand customers, spend marketing budget wisely and to ultimately achieve online success. During the session Gert and Erwin will elaborate on their practical approach and provide the audience with a number of examples where data from different sources is combined",
+      "tags": "sitecore, power bi, bi, digital marketing, marketing, integration, customer experience, experience",
+      "speakersimage": "https://www.sugcon.eu/wp-content/uploads/2017/04/gertmaas-erwinrijss-458x229.jpg",
+      "speakers": [
+        {
+          "id": "38"
+        },
+        {
+          "id": "42"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "from": "2017-05-19T13:35:00.000Z",
+      "until": "2017-05-19T14:20:00.000Z",
+      "room": "1",
+      "title": "DevOps with Sitecore in the cloud",
+      "summary": "Cloud hosting provides vast freedom as to how you design the infrastructure that hosts your applications. This session looks to run through various DevOps scenarios for example: blue/green deployments, monitoring and system health and disaster recovery. It will then demonstrate different tools you can make use of to help with each situation.",
+      "tags": "sitecore, devops, azure, cloud, aws, monitoring, insights, deployment, continous integration, continous deployment",
+      "speakers": [
+        {
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "from": "2017-05-18T16:50:00.000Z",
+      "until": "2017-05-18T17:35:00.000Z",
+      "room": "0",
+      "title": "Sitecore Helix Fast track",
+      "summary": "Helix is the new buzzword in the Sitecore community. But what does the conventions found in Helix really cover and what are they all about. This talk will demystify Sitecore Helix and clarify what it is really all about making Sitecore Helix comprehensible for everyone.",
+      "tags": "sitecore, helix, sxa, tools, unicorn, habitat, architecture",
+      "speakers": [
+        {
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "from": "2017-05-18T15:55:00.000Z",
+      "until": "2017-05-18T16:40:00.000Z",
+      "room": "1",
+      "title": "Sitecore integration with Microsoft Cognitive Services",
+      "summary": "Learn about a new open source project that integrates Microsoft Cognitive Services with Sitecore and provides a platform for image search, content moderation, personal assistants and content recommendation.",
+      "tags": "sitecore, integration, luis, ai, bot, recognization, cognitive services, cognitive, machine learning, opensource, artificial intelligence",
+      "speakers": [
+        {
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "from": "2017-05-18T14:40:00.000Z",
+      "until": "2017-05-18T15:25:00.000Z",
+      "room": "0",
+      "title": "Five things you'll love about Sitecore xConnect",
+      "summary": "XConnect is a new API for modeling, collecting, segmenting, processing, and acting on experience data. During this session, I’ll code+demo five features offered by the new XConnect API.",
+      "tags": "sitecore, xconnect, api, xdb, experience database, mongo, collect, segment, experience db",
+      "speakers": [
+        {
+          "id": "29"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "from": "2017-05-18T15:55:00.000Z",
+      "until": "2017-05-18T16:40:00.000Z",
+      "room": "1",
+      "title": "Leveraging SXA to Empower Large Organizations",
+      "summary": "The capabilities of SXA present an opportunity to empower a large marketing organisation to manage multiple sites more efficiently, create entirely new sites quickly and make large styling changes without the assistance of developers. This presentation will show how to make it all happen!",
+      "tags": "sitecore, sxa, multisite, multi site, accelerator, sitecore experience accelerator",
+      "speakers": [
+        {
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "from": "2017-05-18T15:55:00.000Z",
+      "until": "2017-05-18T16:40:00.000Z",
+      "room": "2",
+      "title": "Using Specflow to drive your test automation",
+      "summary": "How to set up and use SpecFlow to drive test automation for your Sitecore solution.",
+      "tags": "sitecore, specflow, unittest, unit testing, testing, test automation, fakedb, nunit, xunit",
+      "speakers": [
+        {
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "from": "2017-05-18T16:50:00.000Z",
+      "until": "2017-05-18T17:35:00.000Z",
+      "room": "2",
+      "title": "Conjunction – Towards a better way of working with search in Sitecore",
+      "summary": "When working with Sitecore’s ContentSearch API, the main problem is that your search queries only exists in code, therefore changes to search queries requires development, test and deployment, as a direct consequence the cost of making even small changes are considerable.",
+      "tags": "sitecore, conjunction, search, contentsearch, api, contentsearch api, linq, query",
+      "speakers": [
+        {
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "from": "2017-05-19T09:30:00.000Z",
+      "until": "2017-05-19T10:15:00.000Z",
+      "room": "1",
+      "title": "Use Roslyn to validate your Sitecore code and data",
+      "summary": "In this session I will explain about the .NET Compiler Platform (“Roslyn”). What is it? What can you do with it? What makes it so powerful.",
+      "tags": "sitecore, roslyn, compile, .net core, core, validation, validating",
+      "speakers": [
+        {
+          "id": "24"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "from": "2017-05-19T14:30:00.000Z",
+      "until": "2017-05-19T15:15:00.000Z",
+      "room": "0",
+      "title": "Decoupling your Sitecore architecture using Azure Service Bus and Azure Storage",
+      "summary": "I will be demonstrating how Azure Service Bus and Azure Storage technology can solve common problems and challenges building Sitecore solutions to live as a PaaS WebApp in the Azure cloud.",
+      "tags": "sitecore, azure, cloud, paas, azure paas, azure service bus, service bus, azure storage, storage, iaas, azure cloud, webapp",
+      "speakers": [
+        {
+          "id": "22"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "from": "2017-05-19T09:30:00.000Z",
+      "until": "2017-05-19T10:15:00.000Z",
+      "room": "1",
+      "title": "Glass Mapper - Things that I really should have documented",
+      "summary": "This talk would look at those features and discuss how best to make use of them in a Sitecore development. Hopefully this will allow developers to deliver simple and better Glass/Sitecore solutions. ",
+      "tags": "sitecore, glass, glass mapper, orm, mapper, renderingmodel, infer types",
+      "speakers": [
+        {
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "from": "2017-05-18T14:40:00.000Z",
+      "until": "2017-05-18T15:25:00.000Z",
+      "room": "1",
+      "title": "Data mining, prediction and machine learning with the xDB",
+      "summary": "I will share the latest approaches and lessons learned from our ongoing program with our client the University of Toronto, where we are applying data mining and machine learning techniques on the xDB to gain deeper insight into audience behavior, segmentation and engagement",
+      "tags": "sitecore, analytics, xdb, insights, ai, machine learning, data mining, experience analytics, roi",
+      "speakers": [
+        {
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "from": "2017-05-19T13:35:00.000Z",
+      "until": "2017-05-19T14:20:00.000Z",
+      "room": "2",
+      "title": "Sitecore and ReactJS",
+      "summary": "How you can use ReactJS with Sitecore while still keeping a standard development flow for backend developers and keep all the Sitecore extras like Personalization and in page editing.",
+      "tags": "sitecore, javascript, react, reactjs, page editor, experience editor, front-end, frontend",
+      "speakers": [
+        {
+          "id": "18"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "from": "2017-05-19T12:40:00.000Z",
+      "until": "2017-05-19T13:25:00.000Z",
+      "room": "3",
+      "title": "Personalizing for Impact",
+      "summary": "Personalization can be nebulous; it’s an abstract notion that customers often have a hard time conceptualizing. This session will make personalization pragmatic so customers can actualize the value of personalization and the fullest potential of the Sitecore platform.",
+      "tags": "sitecore, marketing, personalization, customer experience, analytics, optmize",
+      "speakers": [
+        {
+          "id": "19"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "from": "2017-05-19T14:30:00.000Z",
+      "until": "2017-05-19T15:15:00.000Z",
+      "room": "2",
+      "title": "Sitecore using Platforms at Enterprise Scale",
+      "summary": "Personalization can be nebulous; it’s an abstract notion that customers often have a hard time conceptualizing. This session will make personalization pragmatic so customers can actualize the value of personalization and the fullest potential of the Sitecore platform.",
+      "tags": "sitecore, sxa, enterprise, architecture, multisite, multi site, tenant, automation, score, versioning, multi-tenancy",
+      "speakers": [
+        {
+          "id": "20"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "from": "2017-05-19T09:30:00.000Z",
+      "until": "2017-05-19T10:15:00.000Z",
+      "room": "0",
+      "title": "Optimising Sitecore sites with Azure Redis cache and Machine Learning",
+      "summary": "Large-scale applications benefit of various levels of caching of information for improving performance and increasing scalability. Caching can be configured in memory or on some more permanent form of storage, in different size and in diverse geographic locations. The open source Redis engine, as implemented in Azure, allows for an intuitive configuration of management of all these aspects, and utilisation from a variety of programming languages.",
+      "tags": "sitecore, azure, cloud, machine learing, redis, redis cache, caching, performance, tuning, paas, webapps",
+      "speakers": [
+        {
+          "id": "28"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "from": "2017-05-18T15:55:00.000Z",
+      "until": "2017-05-18T16:40:00.000Z",
+      "room": "3",
+      "title": "Master Personalization and Integration",
+      "summary": "From Beginner to Advanced in Sitecore Personalization and Integration with all demos and strong recommendation of utilizing .NET Core.",
+      "tags": "sitecore, personalization, integration, .net core, customer experience, marketing track, marketing",
+      "speakers": [
+        {
+          "id": "30"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "from": "2017-05-19T08:35:00.000Z",
+      "until": "2017-05-19T09:20:00.000Z",
+      "room": "0",
+      "title": "What’s new in Publishing Service v2.0",
+      "summary": "There are quite a lot of changes between the initial release (1.1) and the next version (2.0) of the Publishing Service that I think people would want to know about. This is the first version that is 100% ready for the cloud and we also did a lot of performance testing and have some great graphs and data to explain all the things we did to further convince them to try out the service",
+      "tags": "sitecore, publishing, publishing service, performance, azure, cloud, performance testing",
+      "speakers": [
+        {
+          "id": "31"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "from": "2017-05-18T16:50:00.000Z",
+      "until": "2017-05-18T17:35:00.000Z",
+      "room": "3",
+      "title": "Five Keys to the Successful Context Marketing Project",
+      "summary": "Never have there been so many opportunities to use context to create better, more rewarding digital customer experiences. But all too often, data-driven context takes a back seat to business as usual.",
+      "tags": "sitecore, marketing, marketing track, context marketing, sbos, optimize",
+      "speakers": [
+        {
+          "id": "32"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "from": "2017-05-19T14:30:00.000Z",
+      "until": "2017-05-19T15:15:00.000Z",
+      "room": "1",
+      "title": "Sitecore MVC - A developers journey",
+      "summary": "In this presentation, I will introduce a light weight library which handles a lot of plumbing and brings back the statically object model in a similar fashion of ASP.NET MVC. The framework can be extended with additional adapters to accommodate new complex types or accessing data in a different way. A fall-back mechanism ensures that custom renderings are editable using the default Sitecore rendering.",
+      "tags": "sitecore, mvc, opensource, open source",
+      "speakers": [
+        {
+          "id": "36"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "from": "2017-05-18T16:50:00.000Z",
+      "until": "2017-05-18T17:35:00.000Z",
+      "room": "1",
+      "title": "Sitecore xDB In-Depth: Harnessing Contacts, Sessions and Clusters",
+      "summary": "The distributed nature of the Experience Database gives you the ultimate freedom. Deploying and scaling global marketing solutions is now a reality with Sitecore. With great power comes great responsibility. As a developer who builds xDB solutions, you will need to take into account the concurrency between various Sitecore server roles.",
+      "tags": "sitecore, xdb, architecture, contacts, sessions, experience database, mongo, mongodb, server roles",
+      "speakers": [
+        {
+          "id": "33"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "from": "2017-05-18T14:40:00.000Z",
+      "until": "2017-05-18T15:25:00.000Z",
+      "room": "1",
+      "title": "Sitecore Helix Pratically",
+      "summary": "Learn how to put Sitecore Helix to use through a look at a real-world solution built for extensibility and resuability. Discover practices that go beyond Sitecore and deal with other practical aspects of applying Helix to a web solution like client-side aspects of JavaScript and componetization.",
+      "tags": "sitecore, commerce, helix, extensibility, integration",
+      "speakers": [
+        {
+          "id": "47"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "from": "2017-05-19T09:30:00.000Z",
+      "until": "2017-05-19T10:15:00.000Z",
+      "room": "2",
+      "title": "Using Sitecore’s API to expand EXM analytics tracking with xDB",
+      "summary": "In this session we will discuss the challenges behind an enterprise level Sitecore implementation with EXM (Email Experience Manager) involving automated custom messages for a large collection of users. How to capture additional analytics information about the users interactions with open emails not available out-of-the-box and what customizations where required on top of EXM.",
+      "tags": "sitecore, marketing, marketing track, xdb, exm, email, email experience manager, experience database",
+      "speakers": [
+        {
+          "id": "35"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "from": "2017-05-19T12:40:00.000Z",
+      "until": "2017-05-19T13:25:00.000Z",
+      "room": "2",
+      "title": "Sitecore Commerce Overview",
+      "summary": "In this session I will be giving an overview of Sitecore commerce offerings at a business functionality and architectural level. I will show what is included in Sitecore Commerce and what overall business scenarios and functionality is available to customers.",
+      "tags": "sitecore, commerce, sitecore commerce, commere server, catalog, ecommerce, e-commerce",
+      "speakers": [
+        {
+          "id": "41"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "from": "2017-05-19T10:45:00.000Z",
+      "until": "2017-05-19T11:30:00.000Z",
+      "room": "0",
+      "title": "Optimizing Sitecore on Azure App Service",
+      "summary": "Sitecore 8.2 is now based on Azure Web Apps, allowing for easy scalability, maintainability, and monitoring using Azure Services such as Application Insights, Redis Cache, and Azure Search. In this deep-dive session I will walk through the process of optimizing Sitecore for the Cloud.",
+      "tags": "sitecore, azure, cloud, paas, webapps, search, azure search, azure redis, redis, cache ",
+      "speakers": [
+        {
+          "id": "43"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "from": "2017-05-18T14:20:00.000Z",
+      "until": "2017-05-18T14:30:00.000Z",
+      "room": "0",
+      "title": "Sponsor session Coveo - The Impact of AI-Powered Search and Recommendations in Sitecore",
+      "summary": "Coveo machine learning transforms experience of each website visitor by automating the analysis of your usage data to personalize and increase conversion rates and engagement metrics. As the only cloud-based, self-learning site search service for Sitecore, Coveo for Sitecore relevance continually improves without the need for manual relevance tuning and intervention required with traditional site search. This session explains how and why machine learning makes a major impact within the Sitecore ecosystem today with AI-Powered search.",
+      "tags": "sitecore, coveo, ai, artificial intelligence, search, sponsor, sponsor track, sponsored, commercial",
+      "speakers": [
+        {
+          "id": "45"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "from": "2017-05-19T11:30:00.000Z",
+      "until": "2017-05-19T11:40:00.000Z",
+      "room": "0",
+      "title": "Sponsor session Hedgehog - How to Accelerate your Sitecore Development Experience!",
+      "summary": "Lead Developer and Sitecore Architect Charlie Turano will demo Hedgehogs new addition to the Team Development for Sitecore toolset – ZeroDeploy. With ZeroDeploy you can finally test code changes without recycling the Sitecore application pool ultimately accelerating your overall experience and saving you valuable time. Get Ready – Get Set – Get Zero.",
+      "tags": "sitecore, hedgehog, zero deployments, deployment, tool, sponsor, commercial, sponsored",
+      "speakers": [
+        {
+          "id": "46"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "from": "2017-05-18T13:00:00.000Z",
+      "until": "2017-05-18T13:05:00.000Z",
+      "room": "0",
+      "title": "Welcome Day 1",
+      "summary": "Opening of SUGCON Europe 2017 by Pieter Brinkman, Director of Technical Marketing at Sitecore.",
+      "tags": "opening, welcome",
+      "speakers": [
+        {
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "from": "2017-05-18T17:55:00.000Z",
+      "until": "2017-05-18T18:00:00.000Z",
+      "room": "0",
+      "title": "Closing Day 1",
+      "summary": "Closing of Day 1 of SUGCON Europe 2017 by Pieter Brinkman, Director of Technical Marketing at Sitecore.",
+      "tags": "closing",
+      "speakers": [
+        {
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "from": "2017-05-18T17:45:00.000Z",
+      "until": "2017-05-18T17:55:00.000Z",
+      "room": "0",
+      "title": "Sponsor session Telligent - Sitecore + Telligent community, a winning formula at CNV",
+      "summary": "Learn how theFactor.e deployed Telligent Community to satisfy their customers’ requirements",
+      "tags": "telligent, social, sponsor, commercial, sponsored",
+      "speakers": [
+        {
+          "id": "48"
+        },
+        {
+          "id": "49"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "from": "2017-05-19T15:35:00.000Z",
+      "until": "2017-05-19T15:45:00.000Z",
+      "room": "0",
+      "title": "Sponsor session uCommerce - Accelerated commerce on Sitecore",
+      "summary": "Join in on this 10 min speed talk from Morten Lyhr, CTO at Ucommerce, and get a sneak peek into how Ucommerce built their Commerce Accelerator right on the foundation of the Sitecore Helix principles. Take away a whole new view on, how you can quickly build the Storefront of the future and get even more out of Sitecore Experience Platform.",
+      "tags": "commerce, helix, sponsor, commercial, sponsored, accelerator",
+      "speakers": [
+        {
+          "id": "47"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "from": "2017-05-19T17:15:00.000Z",
+      "until": "2017-05-19T17:30:00.000Z",
+      "room": "0",
+      "title": "Closing SUGCON Europe 2017",
+      "summary": "Closing of SUGCON Europe 2017 by Pieter Brinkman, Director of Technical Marketing at Sitecore.",
+      "tags": "closing",
+      "speakers": [
+        {
+          "id": "3"
+        }
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "0",
+      "name": "Main Stage"
+    },
+    {
+      "id": "1",
+      "name": "Room 1"
+    },
+    {
+      "id": "2",
+      "name": "Room 2"
+    },
+    {
+      "id": "3",
+      "name": "Room 3"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "1",
+      "companyname": "Microsoft",
+      "companydescripion": "Over the last three decades, Microsoft has consistently transformed the way that people live, work, play and connect through great technology. We are inspired every day by the genuine belief that we can change the world for the better. At SUGCON 2017, visit our booth and find out more about how we are driving advances in cloud computing, developing new ways for people to interact with technology at home, at work and on the move, while transforming education and public services.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/microsoft_Logo.png",
+      "websiteurl": "https://www.microsoft.com",
+      "sponsorpackage": "Grande",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "2",
+      "companyname": "Hedgehog",
+      "companydescripion": "Hedgehog is a leading provider of digital marketing solutions for Mid-Market and Fortune firms across the world. Hedgehog is the go-to partner for any brand that wants to truly create a healthy digital presence in today’s ecosystem.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/Hedgehog-Logo.png",
+      "websiteurl": "http://www.hhog.com/",
+      "sponsorpackage": "Grande",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "3",
+      "companyname": "uCommerce",
+      "companydescripion": "With Ucommerce you get the market’s most powerful commerce platform for Sitecore. The platform is fully open, extendable and designed to grow with your business needs. And with more than 3.000 websites running on Ucommerce, 150+ certified implementation partners, this is a platform you can trust.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/ucommerce_logo_wide_wo_tag_blue.png",
+      "websiteurl": "https://www.ucommerce.net/",
+      "sponsorpackage": "Grande",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "4",
+      "companyname": "Coveo",
+      "companydescripion": "With Coveo for Sitecore, your marketers can truly own the search experience, easily building and managing rich search-driven pages using familiar Sitecore Experience Platform™ tools. Fully integrated with the Sitecore Experience Database, Coveo for Sitecore – Enterprise Edition makes personalized, contextual website search a powerful and easy-to-manage driver of your website’s success.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2015/09/coveo.png",
+      "websiteurl": "http://www.coveo.com/",
+      "sponsorpackage": "Grande",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "5",
+      "companyname": "Telligent",
+      "companydescripion": "Telligent Community reduces marketing and support costs and creates engaging online experiences. Our .NET, API-based platform enhances Sitecore with forums, blogs, comments, ratings and other community capabilities for interactive experiences with customers, partners, and employees.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/Telligent-Verint-Logo.png",
+      "websiteurl": "https://www.telligent.com/products/sitecore-forums-blogs-and-community/",
+      "sponsorpackage": "Grande",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "11",
+      "companyname": "BrainJocks",
+      "companydescripion": "BrainJocks helps enterprises achieve a comprehensive web presence that optimizes the customer experience. With offices in metro Atlanta and Serbia, we’ve spent nearly two decades advancing web solutions and processes that drive digital results. As a certified Sitecore Gold Implementation Partner, we’re passionate about empowering organizations to personalize each customer’s journey, every step of the way.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/brainjocks_logo.png",
+      "websiteurl": "http://www.brainjocks.com/",
+      "sponsorpackage": "Venti",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "12",
+      "companyname": "LanguageWire",
+      "companydescripion": "LanguageWire has helped businesses reach their global audience since 2000. Collaborating with language experts via our online platform and robust integration solutions is the most efficient way to create high-quality multilingual content.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/languagewire-logo.png",
+      "websiteurl": "https://www.languagewire.com/",
+      "sponsorpackage": "Venti",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "13",
+      "companyname": "Macaw",
+      "companydescripion": "Macaw believes in making businesses more successful in a changing digital world. We work with innovative technology, as a Multiple Gold Microsoft and Platinum Sitecore partner, and with highly talented people with different expertise.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/macaw-logo.png",
+      "websiteurl": "https://www.macaw.nl/",
+      "sponsorpackage": "Venti",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "14",
+      "companyname": "Iquality",
+      "companydescripion": "We help organisations innovate through open and honest collaborations. We design, develop and support software, apps and websites. Our approach: ‘Get Smarter Every Day’ is tuned to this.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/04/iquality_logo-300x77.png",
+      "websiteurl": "https://www.iquality.nl/",
+      "sponsorpackage": "Venti",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "15",
+      "companyname": "TechGuilds",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/04/techguilds-300x88.png",
+      "websiteurl": "http://www.techguilds.com/",
+      "sponsorpackage": "Venti",
+      "sponsortype": "commercial"
+    },
+
+    {
+      "id": "16",
+      "companyname": "Valtech",
+      "companydescripion": "Valtech is a global digital agency. We are revolutionizing how our clients connect with their consumers, closing the experience gap and orchestrating omni-channel customer journeys. We are innovators, design thinkers, marketers, creatives and developers spanning 5 continents with offices in 14 countries and over 2.000 employees. With a renowned commitment to innovation and agility, Valtech creates unprecedented success for our Global 500 clients while optimizing time-to-market and return on investment. Where Experiences are Engineered.",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/valtech_logo-1024x287.png",
+      "websiteurl": "https://www.valtech.com/",
+      "sponsorpackage": "Venti",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "21",
+      "companyname": "Redhotminute. digital agency",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/rhm-logo-1.png",
+      "websiteurl": "https://www.redhotminute.com",
+      "sponsorpackage": "Community Plus sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "22",
+      "companyname": "Alpha Solutions",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/04/AlphaSolutions.png",
+      "websiteurl": "http://www.alpha-solutions.dk/",
+      "sponsorpackage": "Community Plus sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "31",
+      "companyname": "Colours",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/colours-logo.jpg",
+      "websiteurl": "https://www.colours.nl/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "32",
+      "companyname": "Knowdality",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/Knowdality-s.png",
+      "websiteurl": "http://knowdality.com/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "33",
+      "companyname": "Estate",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/Estate-logo-square-black-transparant-1024x1024.png",
+      "websiteurl": "https://www.estate.nl/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "34",
+      "companyname": "Lukkien",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/LOGO_LUKKIEN_WIT-1024x855.jpg",
+      "websiteurl": "https://www.lukkien.com/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "35",
+      "companyname": "Partech",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/partech-full-1000px.png",
+      "websiteurl": "http://www.partech.nl/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "36",
+      "companyname": "Cassidy Consult",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/04/cassidyconsult-logo-1500x1000-1024x683.png",
+      "websiteurl": "https://www.cassidy-consult.com/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "37",
+      "companyname": "Sagittarius",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/Sagittarius-Agency-Logo-RGB.jpg",
+      "websiteurl": "http://sagittarius.agency/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "38",
+      "companyname": "Droxic",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/droxic-1024x321.png",
+      "websiteurl": "http://www.droxic.com/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "39",
+      "companyname": "The Reference",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/04/thereference.jpg",
+      "websiteurl": "https://www.the-reference.com/en",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "41",
+      "companyname": "Codehouse",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/04/codehouse-logo.png",
+      "websiteurl": "https://www.codehouse.com/",
+      "sponsorpackage": "Delegate bags sponsor",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "42",
+      "companyname": "Aviva Solutions",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/aviva-solutions.png",
+      "websiteurl": "https://www.avivasolutions.nl/",
+      "sponsorpackage": "Dinner- and community social sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "43",
+      "companyname": "Achmea",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/03/achmea-logo.png",
+      "websiteurl": "https://www.achmea.com/",
+      "sponsorpackage": "Lanyards & Badges sponsor",
+      "sponsortype": "commercial"
+    },
+    {
+      "id": "44",
+      "companyname": "Suneco",
+      "companydescripion": "",
+      "companylogo": "https://www.sugcon.eu/wp-content/uploads/2017/05/Suneco.png",
+      "websiteurl": "https://www.suneco.nl/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "45",
+      "companyname": "Possible",
+      "companydescripion": "",
+      "companylogo": "http://www.sugcon.eu/wp-content/uploads/2017/03/POSSIBLE_logo.png",
+      "websiteurl": "https://www.possible.com/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    },
+    {
+      "id": "46",
+      "companyname": "NishTech",
+      "companydescripion": "",
+      "companylogo": "http://www.sugcon.eu/wp-content/uploads/2017/03/NishTech_logo_w_tag_NEW.png",
+      "websiteurl": "http://www.nishtechinc.com/",
+      "sponsorpackage": "Community sponsor",
+      "sponsortype": "community"
+    }
+  ]
+}
