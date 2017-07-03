@@ -18,8 +18,7 @@ During SUGCON Europe 2017 Sitecore MVP Robbert Hock and Senior Sitecore Architec
 https://www.youtube.com/watch?v=WzJgc2O_U9Q
 
 ## SUGCON Europe 2017 powerpoint slides
-
-https://github.com/KayeeNL/SUGCON-EVENT-BOT/raw/master/Documentation/SUGCON-Europe-2017-Leveraging-the-Microsoft-Bot-Framework-to-build-your-own-Sitecore-enabled-bots.pdf
+Download the slides [here](https://github.com/KayeeNL/SUGCON-EVENT-BOT/raw/master/Documentation/SUGCON-Europe-2017-Leveraging-the-Microsoft-Bot-Framework-to-build-your-own-Sitecore-enabled-bots.pdf)
 
 ## Contributors
 Robbert Hock
