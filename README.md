@@ -1,12 +1,12 @@
 # SUGCON Europe 2017 Event bot 
-Welcome to the SUGCON Europe 2017 Event BOT code repository. 
+Welcome to the **[SUGCON Europe 2017](http://www.sugcon.eu/)** Event BOT code repository. 
 
-The Bots are coming. Dubbed by the CEO of Microsoft as "the new apps", bots and especially chatbots are the key digital trend for 2017.Repository for the SUGCON Europe 2017 event bot. 
+The Bots are coming. Dubbed by the CEO of Microsoft as "the new apps", bots and especially chatbots are the key digital trend for 2017.
 
-This bot will return Agenda information, Speaker information and maybe some gimmicks.
+This bot will return agenda information, speaker information and everything else for the Sitecore conference: **[SUGCON Europe 2017](http://www.sugcon.eu/)**.
 
 ## SUGCON Europe 2017 
-During SUGCON Europe 2017 Sitecore MVP Robbert Hock and Senior Sitecore Architect Alex van Wolferen showed how you can leverage the Microsoft Bot Framework to build you own Sitecore enabled bots. They showed how to integrate it with several channels such as Facebook Messenger, Skype or Slack and how to make use of Cognitive Services to connect in your natural language with either your On-Premise or your Azure Web Apps supported Sitecore instance. Let’s SPEAK to Sitecore in our own way and go home with some great idea’s!
+During **[SUGCON Europe 2017](http://www.sugcon.eu/)** Sitecore MVP **[Robbert Hock](https://twitter.com/KayeeNL/)** and Senior Sitecore Architect **[Alex van Wolferen](https://twitter.com/avwolferen)** showed how you can leverage the Microsoft Bot Framework to build you own Sitecore enabled bots. They showed how to integrate it with several channels such as Facebook Messenger, Skype or Slack and how to make use of Cognitive Services to connect in your natural language with either your On-Premise or your Azure Web Apps supported Sitecore instance. Let’s SPEAK to Sitecore in our own way and go home with some great idea’s!
 
 ## Used techniques for creating this bot
 
@@ -18,7 +18,7 @@ During SUGCON Europe 2017 Sitecore MVP Robbert Hock and Senior Sitecore Architec
 https://www.youtube.com/watch?v=WzJgc2O_U9Q
 
 ## SUGCON Europe 2017 powerpoint slides
-Download the slides [here](https://github.com/KayeeNL/SUGCON-EVENT-BOT/raw/master/Documentation/SUGCON-Europe-2017-Leveraging-the-Microsoft-Bot-Framework-to-build-your-own-Sitecore-enabled-bots.pdf)
+Download the slides **[here](https://github.com/KayeeNL/SUGCON-EVENT-BOT/raw/master/Documentation/SUGCON-Europe-2017-Leveraging-the-Microsoft-Bot-Framework-to-build-your-own-Sitecore-enabled-bots.pdf)**
 
 ## Contributors
 Robbert Hock
