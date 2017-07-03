@@ -17,7 +17,7 @@ namespace SUGCON.Event.Bot.Services
                 if (_response == null)
                 {
                     var webClient = new WebClient();
-                    var jsonResponse = webClient.DownloadString(@"");
+                    var jsonResponse = webClient.DownloadString(@"https://raw.githubusercontent.com/KayeeNL/SUGCON-EVENT-BOT/master/Documentation/sugconeurope2017schedule.json");
                     try
                     {
                         _response = JsonConvert.DeserializeObject<SugconResponse>(jsonResponse);
